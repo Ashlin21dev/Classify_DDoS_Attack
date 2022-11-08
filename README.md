@@ -18,8 +18,6 @@ o Time to limit the links
 o Getting used to hping3
 o Installing things... again! 
 o Usage
-o Demo time! 
-o Wanted a video?
 
 ## Traffic classification with a SVM (Support Vector Machine)
 o First step: Getting the data collection to work 
